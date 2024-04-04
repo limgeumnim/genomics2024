@@ -1,0 +1,224 @@
+@import url(/css/main.css);
+
+section.main {
+  background-color: #f7f7f7;
+  margin-top: 100px;
+  padding: 60px 20px;
+}
+
+section.main .inner {
+  padding-bottom: 100px;
+}
+
+section.main .inner .main-title {
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Rubik", sans-serif;
+  color: #000;
+  font-size: 50px;
+  line-height: 1.2;
+  letter-spacing: 0px;
+  padding-bottom: 10px;
+}
+
+section.main .inner .text-line .sub-title {
+  font-size: 32px;
+  padding-bottom: 10px;
+  line-height: 135%;
+}
+
+section.main .inner .text-line .group {
+  display: flex;
+  flex-direction: row;
+}
+
+section.main .inner .text-line .group:nth-child(2) {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+  color: #202124;
+  padding-bottom: 10px;
+
+  display: flex;
+  align-items: baseline;
+}
+
+section.main .inner .text-line .group .E-mail {
+  margin-right: 10px;
+}
+
+section.main .inner .text-line .group .eMail {
+  font-size: 16px;
+}
+section.main .inner .text-line .group:nth-child(3) {
+  flex-wrap: wrap;
+}
+
+section.main .inner .text-line .main-text-1,
+.main-text-3 {
+  color: #de5221;
+}
+
+section.main .inner .text-line .main-text-2 {
+  color: blue;
+}
+
+section.main .inner .select-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  flex-wrap: wrap;
+}
+
+section.main .inner .select-box .text-line {
+  width: 100px;
+  padding: 15px 0;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0);
+  border-radius: 8px;
+  border: 1px solid #dadce0;
+  box-sizing: border-box;
+
+  font-size: 15px;
+  color: #44464a;
+  font-weight: 600;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+
+  transition: 0.5s;
+}
+
+section.main .inner .select-box .text-line .count {
+  color: #de5221;
+  font-size: 24px;
+
+  padding-top: 10px;
+}
+
+section.main .inner .select-box button:hover {
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.05);
+}
+
+section.main .inner .group-1 {
+  display: flex;
+  flex-wrap: wrap;
+
+  padding: 15px 0;
+}
+
+section.main .inner .group-1 .text-line.job-item {
+  width: 318px;
+
+  padding: 20px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0);
+  border-radius: 8px;
+  border: 1px solid #dadce0;
+  display: flex;
+  cursor: pointer;
+  transition: 0.5s;
+  position: relative;
+}
+
+section.main .inner .group-1 .text-line.job-item:hover {
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.15);
+}
+
+section.main .inner .group-1 .text-line.job-item .box {
+  width: fit-content;
+  padding: 3px 10px;
+  border: #ec7c44 solid 1px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  color: #ec7c44;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 22px;
+}
+
+section.main .inner .group-1 .text-line.job-item .title,
+.member {
+  font-size: 20px;
+  color: #44464a;
+  font-weight: 600;
+}
+
+section.main .inner .group-1 .text-line.job-item .member {
+  padding-bottom: 5px;
+}
+
+section.main .inner .group-1 .text-line.job-item .hashtag {
+  font-size: 13px;
+  color: #606063;
+  padding-bottom: 10px;
+}
+
+section.main .inner .group-1 .text-line.job-item .detailbtn {
+  color: #000;
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 20px;
+  text-align: center;
+
+  transition: 0.5s;
+}
+
+section.main .inner .group-1 .text-line.job-item:hover .detailbtn {
+  color: #ec7c44;
+}
+
+section.main .inner .group-1 .text-line.null {
+  padding: 25px 40px;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0);
+  border-radius: 8px;
+  border: 1px solid #dadce0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* jobItemDetail */
+
+section.main.Careers.sales-job .inner .text-line {
+  word-break: keep-all;
+}
+
+section.main.Careers.sales-job .inner .text-line .title {
+  font-size: 40px;
+  font-weight: 600;
+
+  padding-bottom: 20px;
+}
+
+section.main.Careers.sales-job .inner .text-line .sub-title {
+  font-size: 20px;
+  color: #44464a;
+  font-weight: 600;
+
+  padding-bottom: 5px;
+}
+
+section.main.Careers.sales-job .inner .text-line .detail {
+  padding-bottom: 15px;
+}
+
+section.main.Careers.sales-job .inner .text-line .question {
+  font-size: 17px;
+  font-weight: 600;
+
+  padding: 10px 0px 5px;
+}
+
+section.main.Careers.sales-job .inner .text-line .btn {
+  width: fit-content;
+  margin-top: 60px;
+  font-size: 30px;
+  text-align: center;
+}

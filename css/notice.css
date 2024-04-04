@@ -1,0 +1,7 @@
+@import url(/css/main.css);
+
+section.main {
+  background-color: #f7f7f7;
+  margin-top: 100px;
+  padding: 60px 20px;
+}
