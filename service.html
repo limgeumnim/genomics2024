@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.rokitgenomics.com" />
+  <meta property="og:title" content="ROKIT Genomics" />
+  <meta property="og:image" content="./images/thumbnail.png" />
+  <meta property="og:description"
+    content="ROKIT Genomics pursues to unravel the mystery of human biological mechanism to help people." />
+  <meta property="og:site_name" content="ROKIT Genomics" />
+
+  <title>ROKIT Genomics</title>
+  <link rel="icon" href="/favicon.ico" />
+  <!-- 브라우저 css 초기화 -->
+  <link href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" rel="stylesheet" />
+  <!-- 구글 폰트 -->
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet"> -->
+
+  <!-- 프리텐다드 폰트 가변 weight-->
+  <!-- <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" /> -->
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css" />
+
+  <!-- main.css -->
+  <link rel="stylesheet" href="./css/service.css" />
+  <!-- Throttle js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.20/lodash.min.js"
+    integrity="sha512-90vH1Z83AJY9DmlWa8WkjkV79yfS2n2Oxhsi2dZbIv0nC4E6m5AbH8Nh156kkM7JePmqD6tcZsfad1ueoaovww=="
+    crossorigin="anonymous"></script>
+  <!-- Swiper js -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.1.1/swiper-bundle.css" />
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.1.1/swiper-bundle.min.js"></script>
+  <!-- main.js -->
+  <script defer src="/js/language.js"></script>
+  <script defer src="/js/reSize.js"></script>
+</head>
+<!-- 변경 -->
+
+<body>
+  <header>
+    <div class="inner">
+      <a href="./index.html" class="home">
+        <img src="./favicon.png" alt="Genomics" class="logo" />
+        <span class="name">ROKIT Genomics</span>
+      </a>
+      <div class="main-menu">
+        <ul class="menu">
+          <a href="/about_us.html">About us</a>
+          <a href="/r&d.html">R&D</a>
+          <a href="/service.html" style="color: #de5221;">Service</a>
+          <a href="/pr_center.html">PR Center</a>
+          <a href="/careers.html">Careers</a>
+          <a href="/contact_us.html">Contact us</a>
+        </ul>
+        <button class="btn-menu">
+          <img src="/images/icons/menu_.svg" alt="">
+        </button>
+        <ul class="drop-menu">
+          <a href="/about_us.html">About us</a>
+          <a href="/r&d.html">R&D</a>
+          <a href="/service.html" style="color: #de5221;">Service</a>
+          <a href="/pr_center.html">PR Center</a>
+          <a href="/careers.html">Careers</a>
+          <a href="/contact_us.html">Contact us</a>
+        </ul>
+        <div class="change-Language">
+          <button class="en" onclick="changeLanguage('en')">English</button>
+          <button class="ko" onclick="changeLanguage('ko')">한국어</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="main">
+    <div class="inner">
+      <div class="Service service-title"></div>
+      <div class="Service service-sub-title"></div>
+      <!-- <div class="btn">
+        <a class="Btn Experiment-design-for-you" href="/contact_us.html"></a>
+      </div> -->
+    </div>
+  </section>
+
+  <!-- 국내 유일 Multi-platform -->
+  <section class="why">
+    <div class="inner">
+      <div class="Service head-title platform-title"></div>
+      <hr />
+      <div class="item-wrap">
+        <div class="items">
+          <div class="item left">
+            <img class="Service img-1" src="/images/service_10x_chromium.png" alt="" height="200">
+            <div class="item-box">
+              <span>10X Chromium iX</span>
+              <hr />
+              <div class="Service main-text platform-text-1-0"></div>
+              <div class="Service main-text platform-text-1-1"></div>
+              <div class="Service main-text platform-text-1-2"></div>
+              <div class="Service main-text platform-text-1-3"></div>
+              <img class="Service img-1" src="/images/service_10x_temp.png" alt="" height="150">
+              <div class="Service main-text platform-text-1-4"></div>
+            </div>
+          </div>
+          <div class="item right">
+            <img class="Service img-1" src="/images/service_BD_HT.png" alt="" height="200">
+            <div class="item-box">
+              <span>BD Rhapsody HT</span>
+              <hr />
+              <div class="Service main-text platform-text-2-1"></div>
+              <div class="Service main-text platform-text-2-2"></div>
+              <div class="Service main-text platform-text-2-3"></div>
+              <img class="Service img-1" src="/images/service_BD_temp.png" alt="" height="150">
+              <div class="Service main-text platform-text-2-4"></div>
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Available applications -->
+  <section class="Available-applications">
+    <div class="inner">
+      <div class="Service head-title Available-applications-title"></div>
+      <hr />
+      <div class="text-line">
+        <!-- <div class="Service sub-title aA-sub-title-1"></div> -->
+        <div class="sub-group sub-group-1">
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-1" src="/images/service_03_10x_genomics_01.png" alt="">
+              <div class="Service main-text aA-main-text-1-1"></div>
+            </div>
+            <div class="group">
+              <img class="Service img-2" src="/images/service_03_10x_genomics_02.png" alt="">
+              <div class="Service main-text aA-main-text-1-2"></div>
+            </div>
+            <div class="group">
+              <img class="Service img-3" src="/images/service_03_10x_genomics_03.png" alt="">
+              <div class="Service main-text aA-main-text-1-3"></div>
+            </div>
+          </div>
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-4" src="/images/service_03_10x_genomics_05.png" alt="">
+              <div class="Service main-text aA-main-text-1-4"></div>
+            </div>
+            <div class="group">
+              <img class="Service img-5" src="/images/service_03_10x_genomics_04.png" alt="">
+              <div class="Service main-text aA-main-text-1-5"></div>
+            </div>
+            <div class="group">
+              <img class="Service img-6" src="/images/service_04_bd_rhapsody_03.png" alt="">
+              <div class="Service main-text aA-main-text-1-6"></div>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="Service sub-title aA-sub-title-2"></div> -->
+        <!-- <div class="sub-group sub-group-2">
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-1" src="/images/service_04_bd_rhapsody_01.png" alt="">
+              <div class="Service main-text aA-main-text-2-1"></div>
+            </div>
+            <div class="group">
+              <img class="Service img-2" src="/images/service_04_bd_rhapsody_02.png" alt="">
+              <div class="Service main-text aA-main-text-2-2"></div>
+            </div>
+          </div>
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-3" src="/images/service_04_bd_rhapsody_03.png" alt="">
+              <div class="Service main-text aA-main-text-2-3"></div>
+            </div>
+            <div class="group">
+              <img class="Service img-4" src="/images/service_04_bd_rhapsody_04.png" alt="">
+              <div class="Service main-text aA-main-text-2-4"></div>
+            </div>
+          </div>
+        </div> -->
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Single cell RNA-seq workflow -->
+  <section class="workflow">
+    <div class="inner">
+      <div class="Service head-title workflow-title"></div>
+      <hr />
+      <div class="text-line">
+        <div class="Service sub-title BD-sub-title-1"></div>
+        <div class="sub-group sub-group-1">
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_01.png" alt="">
+              <div class="Service main-text BD-main-text-1-1"></div>
+            </div>
+            <div class="icon"></div>
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_02.png" alt="">
+              <div class="Service main-text BD-main-text-1-2"></div>
+            </div>
+            <div class="icon"></div>
+          </div>
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_03.png" alt="">
+              <div class="Service main-text BD-main-text-1-3"></div>
+            </div>
+            <div class="icon" style="margin-right: 25px;"></div>
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_04.png" alt="">
+              <div class="Service main-text BD-main-text-1-4"></div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </section>
+
+  <!-- 지금 시작해 보세요 -->
+  <section class="try">
+    <div class="inner">
+      <div class="Service try-title"></div>
+        <div class="btn">
+          <a class="Btn Experiment-design-for-you" href="/contact_us.html"></a>
+        </div>
+    </div>
+  </section>
+
+  <section class="BD">
+    <div class="inner">
+      <hr />
+      <div class="Service head-title BD-title"></div>
+      <div class="text-line">
+        <div class="Service sub-title BD-sub-title-1"></div>
+        <div class="sub-group sub-group-1">
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_01.png" alt="">
+              <div class="Service main-text BD-main-text-1-1"></div>
+            </div>
+            <div class="icon"></div>
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_02.png" alt="">
+              <div class="Service main-text BD-main-text-1-2"></div>
+            </div>
+            <div class="icon"></div>
+          </div>
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_03.png" alt="">
+              <div class="Service main-text BD-main-text-1-3"></div>
+            </div>
+            <div class="icon" style="margin-right: 25px;"></div>
+            <div class="group">
+              <img class="Service img-1" src="/images/service_02_bd_rhapsody_wta_04.png" alt="">
+              <div class="Service main-text BD-main-text-1-4"></div>
+            </div>
+          </div>
+        </div>
+        <!-- 10x Genomics Workflow -->
+        <div class="Service sub-title BD-sub-title-2"></div>
+        <div class="sub-group sub-group-2">
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-2" src="/images/service_01_10x_gex_icon_01.png" alt="">
+              <div class="Service main-text BD-main-text-2-1"></div>
+            </div>
+            <div class="icon" style="margin: 0 30px 0 0;"></div>
+            <div class="group" style="margin-top : 15px">
+              <img class="Service img-2" src="/images/service_01_10x_gex_icon_02.png" alt="">
+              <div style="display: flex; flex-direction: row; justify-content: space-between;">
+                <div class="Service main-text BD-main-text-2-2"></div>
+                <div class="Service main-text BD-main-text-2-3"></div>
+              </div>
+            </div>
+            <div class="icon" style="margin: 0 -20px 0 20px;"></div>
+            <div class="group">
+              <img class="Service img-2" src="/images/service_01_10x_gex_icon_03.png" alt="">
+              <div class="Service main-text BD-main-text-2-4"></div>
+            </div>
+            <div class="icon"></div>
+          </div>
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-2" src="/images/service_01_10x_gex_icon_04.png" alt="">
+              <div class="Service main-text BD-main-text-2-5"></div>
+            </div>
+            <div class="icon"></div>
+            <div class="group">
+              <img class="Service img-2" src="/images/service_01_10x_gex_icon_05.png" alt="">
+              <div class="Service main-text BD-main-text-2-6"></div>
+            </div>
+          </div>
+        </div>
+        <div class="Service sub-title BD-sub-title-3"></div>
+        <div class="sub-group sub-group-3">
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-3" src="/images/service_05_bd rhapsody workflow_01.png" alt="">
+              <div class="Service main-text BD-main-text-3-1"></div>
+            </div>
+            <div class="icon"></div>
+            <div class="group">
+              <img class="Service img-3" src="/images/service_05_bd rhapsody workflow_02.png" alt="">
+              <div class="Service main-text BD-main-text-3-2"></div>
+            </div>
+            <div class="icon" style="margin-right: -42.5px;"></div>
+          </div>
+          <div class="reSize-group">
+            <div class="group">
+              <img class="Service img-3" src="/images/service_05_bd rhapsody workflow_03.png" alt="">
+              <div style="display: flex; flex-direction: row; justify-content: space-between;">
+                <div class="Service main-text BD-main-text-3-3"></div>
+                <div class="Service main-text BD-main-text-3-4"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <section class="Bioinformatics-Analysis">
+    <div class="inner">
+      <hr />
+      <div class="Service head-title Bioinformatics-Analysis-title"></div>
+      <div class="text-line">
+        <div class="Service sub-title Bioinformatics-Analysis-title"></div>
+        <div class="sub-group sub-group-1">
+          <div class="reSize-group-1">
+            <div class="reSize-group-2">
+              <div class="group">
+                <div class="Service main-text bA-main-text-1-1"></div>
+                <img src="/images/bioinformatics_analysis_img01.jpg" alt="">
+              </div>
+            </div>
+            <div class="reSize-group-2">
+              <div class="reSize-group-3">
+                <div class="group">
+                  <div class="Service main-text bA-main-text-1-2"></div>
+                  <img src="/images/bioinformatics_analysis_img02.jpg" alt="">
+                </div>
+                <div class="group">
+                  <div class="Service main-text bA-main-text-1-3"></div>
+                  <img src="/images/bioinformatics_analysis_img04.jpg" alt="">
+                </div>
+              </div>
+              <div class="reSize-group-3">
+                <div class="group">
+                  <div class="Service main-text bA-main-text-1-4"></div>
+                  <img src="/images/bioinformatics_analysis_img03.jpg" alt="">
+                </div>
+                <div class="group">
+                  <div class="Service main-text bA-main-text-1-5"></div>
+                  <img src="/images/bioinformatics_analysis_img05.jpg" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="reSize-group-1">
+            <div class="group">
+              <div class="Service main-text bA-main-text-1-6"></div>
+              <img src="/images/bioinformatics_analysis_img07.jpg" alt="">
+            </div>
+            <div class="group">
+              <div class="Service main-text bA-main-text-1-7"></div>
+              <img src="/images/bioinformatics_analysis_img11.jpg" alt="">
+            </div>
+            <div class="group">
+              <div class="Service main-text bA-main-text-1-8"></div>
+              <img src="/images/bioinformatics_analysis_img09.jpg" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- 홍보 이미지(국문) -->
+  <section class="promotion-image">
+    <div class="inner">
+      <img src="/images/customService.png" alt="고객 맞춤 분석 서비스"></img>
+      <img src="/images/tissueDissociationService.png" alt="tissueDissociationService">
+    </div>
+  </section>
+
+
+  <footer>
+    <section class="info">
+      <div class="inner">
+        <ul>
+          <li class="title">
+            <a href="/index.html">
+              <img src="./favicon.png" alt="Genomics" class="logo" />
+              <span class="footer-name">ROKIT Genomics</span>
+            </a>
+            <div class="Footer introduce main-text"></div>
+          </li>
+          <li class="title">
+            <div class="Footer company-registration-number-title"></div>
+            <div class="Footer company-registration-number main-text"></div>
+            <div class="Footer company-registration-number-company main-text"></div>
+          </li>
+          <li class="title">
+            <div class="Footer contact-us-title"></div>
+            <a href="https://www.google.co.kr/maps/place/(%EC%A3%BC)%EB%A1%9C%ED%82%B7%EC%A0%9C%EB%85%B8%EB%AF%B9%EC%8A%A4/data=!3m1!4b1!4m6!3m5!1s0x357b619858fab9af:0xd1258346e95b234f!8m2!3d37.4773564!4d126.8891438!16s%2Fg%2F11qwzmdjdf"
+              target="_blank" class="Footer location main-text "></a>
+            <div class="group">
+              <div class="Footer tel-title Tel"></div>
+              <span class="Footer tel line main-text"></span>
+            </div>
+            <div class="group">
+              <div class="Footer email-title Email"></div>
+              <div class="Footer email line main-text"></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section class="copyright">
+      <div class="inner">
+        <div class="main-text">Copyright&copy; ROKIT Genomics All Rights Reserved <a href="/privacy_policy.html">Privacy
+            Policy</a></div>
+      </div>
+    </section>
+  </footer>
+</body>
+
+</html>
