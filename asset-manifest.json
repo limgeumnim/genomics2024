@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/genomics2024/static/css/main.8190f3d7.css",
-    "main.js": "/genomics2024/static/js/main.8e9e2d75.js",
+    "main.css": "/genomics2024/static/css/main.0c46f1fb.css",
+    "main.js": "/genomics2024/static/js/main.2d55fb6e.js",
     "static/js/453.ca3a84db.chunk.js": "/genomics2024/static/js/453.ca3a84db.chunk.js",
+    "static/media/services_chromium.png": "/genomics2024/static/media/services_chromium.e9bd966a1ce22b8d8472.png",
+    "static/media/services_mobinova.png": "/genomics2024/static/media/services_mobinova.668f8029ee5364b551ef.png",
+    "static/media/services_rhapsody.png": "/genomics2024/static/media/services_rhapsody.b2a72706910f9c383525.png",
     "static/media/material-icons-latin-400-normal.woff": "/genomics2024/static/media/material-icons-latin-400-normal.ec276a3b4c1b27cdbab7.woff",
     "static/media/material-icons-latin-400-normal.woff2": "/genomics2024/static/media/material-icons-latin-400-normal.0c35d18bf06992036b69.woff2",
     "static/media/logo.png": "/genomics2024/static/media/logo.da8881d31b8dff0b0027.png",
     "index.html": "/genomics2024/index.html",
-    "main.8190f3d7.css.map": "/genomics2024/static/css/main.8190f3d7.css.map",
-    "main.8e9e2d75.js.map": "/genomics2024/static/js/main.8e9e2d75.js.map",
+    "main.0c46f1fb.css.map": "/genomics2024/static/css/main.0c46f1fb.css.map",
+    "main.2d55fb6e.js.map": "/genomics2024/static/js/main.2d55fb6e.js.map",
     "453.ca3a84db.chunk.js.map": "/genomics2024/static/js/453.ca3a84db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8190f3d7.css",
-    "static/js/main.8e9e2d75.js"
+    "static/css/main.0c46f1fb.css",
+    "static/js/main.2d55fb6e.js"
   ]
 }
