@@ -1,21 +1,35 @@
 {
   "files": {
-    "main.css": "/genomics2024/static/css/main.d0d690bd.css",
-    "main.js": "/genomics2024/static/js/main.95f3076e.js",
+    "main.css": "/genomics2024/static/css/main.90002da6.css",
+    "main.js": "/genomics2024/static/js/main.0bd3217b.js",
     "static/js/453.ca3a84db.chunk.js": "/genomics2024/static/js/453.ca3a84db.chunk.js",
+    "static/media/pr_openschool_thumb.jpg": "/genomics2024/static/media/pr_openschool_thumb.3f05015ccaa32d7a02dd.jpg",
+    "static/media/pr_BD_MOU.jpg": "/genomics2024/static/media/pr_BD_MOU.f74cf2eaf0853ddda005.jpg",
     "static/media/services_chromium.png": "/genomics2024/static/media/services_chromium.e9bd966a1ce22b8d8472.png",
     "static/media/services_mobinova.png": "/genomics2024/static/media/services_mobinova.668f8029ee5364b551ef.png",
     "static/media/services_rhapsody.png": "/genomics2024/static/media/services_rhapsody.b2a72706910f9c383525.png",
     "static/media/material-icons-latin-400-normal.woff": "/genomics2024/static/media/material-icons-latin-400-normal.ec276a3b4c1b27cdbab7.woff",
+    "static/media/pr_award_thumb.jpg": "/genomics2024/static/media/pr_award_thumb.098db5341008eb55a4c1.jpg",
     "static/media/material-icons-latin-400-normal.woff2": "/genomics2024/static/media/material-icons-latin-400-normal.0c35d18bf06992036b69.woff2",
+    "static/media/pr_Biosolvix.jpg": "/genomics2024/static/media/pr_Biosolvix.9627d3ae6024bd62cb51.jpg",
+    "static/media/pr_Bertis.jpg": "/genomics2024/static/media/pr_Bertis.5324ea038c99aa1a73ce.jpg",
+    "static/media/pr_unist_thumb.jpg": "/genomics2024/static/media/pr_unist_thumb.f69c8df543d7492e92ae.jpg",
+    "static/media/pr_rokitandmac.jpg": "/genomics2024/static/media/pr_rokitandmac.ccd02d90a853ef85d549.jpg",
     "static/media/logo.png": "/genomics2024/static/media/logo.da8881d31b8dff0b0027.png",
+    "static/media/pr_BIseminar.jpg": "/genomics2024/static/media/pr_BIseminar.bcf7695b03905d6e47fa.jpg",
+    "static/media/genomics-thumbnail.jpg": "/genomics2024/static/media/genomics-thumbnail.f3d81f4c4f620c5b4b8c.jpg",
+    "static/media/pr_CDIAM.jpg": "/genomics2024/static/media/pr_CDIAM.59bc02375373fa14c6fb.jpg",
+    "static/media/rokit_genomics_logo.png": "/genomics2024/static/media/rokit_genomics_logo.fd069bd1857f19453b43.png",
+    "static/media/rokit_america_logo.png": "/genomics2024/static/media/rokit_america_logo.a5223004f14c2044c0aa.png",
+    "static/media/rokit_healthcare_logo.png": "/genomics2024/static/media/rokit_healthcare_logo.b6012b87df0035e93a0a.png",
+    "static/media/rokit_europe_logo.png": "/genomics2024/static/media/rokit_europe_logo.b0a556212ee214939ec5.png",
     "index.html": "/genomics2024/index.html",
-    "main.d0d690bd.css.map": "/genomics2024/static/css/main.d0d690bd.css.map",
-    "main.95f3076e.js.map": "/genomics2024/static/js/main.95f3076e.js.map",
+    "main.90002da6.css.map": "/genomics2024/static/css/main.90002da6.css.map",
+    "main.0bd3217b.js.map": "/genomics2024/static/js/main.0bd3217b.js.map",
     "453.ca3a84db.chunk.js.map": "/genomics2024/static/js/453.ca3a84db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0d690bd.css",
-    "static/js/main.95f3076e.js"
+    "static/css/main.90002da6.css",
+    "static/js/main.0bd3217b.js"
   ]
 }
