@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/genomics2024/static/css/main.90002da6.css",
-    "main.js": "/genomics2024/static/js/main.0bd3217b.js",
+    "main.css": "/genomics2024/static/css/main.f889e1f1.css",
+    "main.js": "/genomics2024/static/js/main.360140d1.js",
     "static/js/453.ca3a84db.chunk.js": "/genomics2024/static/js/453.ca3a84db.chunk.js",
     "static/media/pr_openschool_thumb.jpg": "/genomics2024/static/media/pr_openschool_thumb.3f05015ccaa32d7a02dd.jpg",
     "static/media/pr_BD_MOU.jpg": "/genomics2024/static/media/pr_BD_MOU.f74cf2eaf0853ddda005.jpg",
@@ -24,12 +24,12 @@
     "static/media/rokit_healthcare_logo.png": "/genomics2024/static/media/rokit_healthcare_logo.b6012b87df0035e93a0a.png",
     "static/media/rokit_europe_logo.png": "/genomics2024/static/media/rokit_europe_logo.b0a556212ee214939ec5.png",
     "index.html": "/genomics2024/index.html",
-    "main.90002da6.css.map": "/genomics2024/static/css/main.90002da6.css.map",
-    "main.0bd3217b.js.map": "/genomics2024/static/js/main.0bd3217b.js.map",
+    "main.f889e1f1.css.map": "/genomics2024/static/css/main.f889e1f1.css.map",
+    "main.360140d1.js.map": "/genomics2024/static/js/main.360140d1.js.map",
     "453.ca3a84db.chunk.js.map": "/genomics2024/static/js/453.ca3a84db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90002da6.css",
-    "static/js/main.0bd3217b.js"
+    "static/css/main.f889e1f1.css",
+    "static/js/main.360140d1.js"
   ]
 }
