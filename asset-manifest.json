@@ -1,7 +1,21 @@
 {
   "files": {
-    "main.css": "/genomics2024/static/css/main.a4be2114.css",
-    "main.js": "/genomics2024/static/js/main.54795139.js",
+    "main.css": "/genomics2024/static/css/main.8b251327.css",
+    "main.js": "/genomics2024/static/js/main.689502a5.js",
+    "reactPlayerYouTube.js": "/genomics2024/static/js/reactPlayerYouTube.9a04dbee.chunk.js",
+    "reactPlayerSoundCloud.js": "/genomics2024/static/js/reactPlayerSoundCloud.49717f4f.chunk.js",
+    "reactPlayerVimeo.js": "/genomics2024/static/js/reactPlayerVimeo.e975bda3.chunk.js",
+    "reactPlayerMux.js": "/genomics2024/static/js/reactPlayerMux.9f9c2e17.chunk.js",
+    "reactPlayerFacebook.js": "/genomics2024/static/js/reactPlayerFacebook.10589607.chunk.js",
+    "reactPlayerStreamable.js": "/genomics2024/static/js/reactPlayerStreamable.3af7dec1.chunk.js",
+    "reactPlayerWistia.js": "/genomics2024/static/js/reactPlayerWistia.7bd6c41a.chunk.js",
+    "reactPlayerTwitch.js": "/genomics2024/static/js/reactPlayerTwitch.c6b0c9e2.chunk.js",
+    "reactPlayerDailyMotion.js": "/genomics2024/static/js/reactPlayerDailyMotion.49c63802.chunk.js",
+    "reactPlayerMixcloud.js": "/genomics2024/static/js/reactPlayerMixcloud.d642ede6.chunk.js",
+    "reactPlayerVidyard.js": "/genomics2024/static/js/reactPlayerVidyard.b7852fd3.chunk.js",
+    "reactPlayerKaltura.js": "/genomics2024/static/js/reactPlayerKaltura.6aa7f839.chunk.js",
+    "reactPlayerFilePlayer.js": "/genomics2024/static/js/reactPlayerFilePlayer.faee32a3.chunk.js",
+    "reactPlayerPreview.js": "/genomics2024/static/js/reactPlayerPreview.edacdb10.chunk.js",
     "static/media/pr_openschool_thumb.jpg": "/genomics2024/static/media/pr_openschool_thumb.3f05015ccaa32d7a02dd.jpg",
     "static/media/pr_BD_MOU.jpg": "/genomics2024/static/media/pr_BD_MOU.f74cf2eaf0853ddda005.jpg",
     "static/media/services_chromium.png": "/genomics2024/static/media/services_chromium.e9bd966a1ce22b8d8472.png",
@@ -23,11 +37,25 @@
     "static/media/rokit_healthcare_logo.png": "/genomics2024/static/media/rokit_healthcare_logo.b6012b87df0035e93a0a.png",
     "static/media/rokit_europe_logo.png": "/genomics2024/static/media/rokit_europe_logo.b0a556212ee214939ec5.png",
     "index.html": "/genomics2024/index.html",
-    "main.a4be2114.css.map": "/genomics2024/static/css/main.a4be2114.css.map",
-    "main.54795139.js.map": "/genomics2024/static/js/main.54795139.js.map"
+    "main.8b251327.css.map": "/genomics2024/static/css/main.8b251327.css.map",
+    "main.689502a5.js.map": "/genomics2024/static/js/main.689502a5.js.map",
+    "reactPlayerYouTube.9a04dbee.chunk.js.map": "/genomics2024/static/js/reactPlayerYouTube.9a04dbee.chunk.js.map",
+    "reactPlayerSoundCloud.49717f4f.chunk.js.map": "/genomics2024/static/js/reactPlayerSoundCloud.49717f4f.chunk.js.map",
+    "reactPlayerVimeo.e975bda3.chunk.js.map": "/genomics2024/static/js/reactPlayerVimeo.e975bda3.chunk.js.map",
+    "reactPlayerMux.9f9c2e17.chunk.js.map": "/genomics2024/static/js/reactPlayerMux.9f9c2e17.chunk.js.map",
+    "reactPlayerFacebook.10589607.chunk.js.map": "/genomics2024/static/js/reactPlayerFacebook.10589607.chunk.js.map",
+    "reactPlayerStreamable.3af7dec1.chunk.js.map": "/genomics2024/static/js/reactPlayerStreamable.3af7dec1.chunk.js.map",
+    "reactPlayerWistia.7bd6c41a.chunk.js.map": "/genomics2024/static/js/reactPlayerWistia.7bd6c41a.chunk.js.map",
+    "reactPlayerTwitch.c6b0c9e2.chunk.js.map": "/genomics2024/static/js/reactPlayerTwitch.c6b0c9e2.chunk.js.map",
+    "reactPlayerDailyMotion.49c63802.chunk.js.map": "/genomics2024/static/js/reactPlayerDailyMotion.49c63802.chunk.js.map",
+    "reactPlayerMixcloud.d642ede6.chunk.js.map": "/genomics2024/static/js/reactPlayerMixcloud.d642ede6.chunk.js.map",
+    "reactPlayerVidyard.b7852fd3.chunk.js.map": "/genomics2024/static/js/reactPlayerVidyard.b7852fd3.chunk.js.map",
+    "reactPlayerKaltura.6aa7f839.chunk.js.map": "/genomics2024/static/js/reactPlayerKaltura.6aa7f839.chunk.js.map",
+    "reactPlayerFilePlayer.faee32a3.chunk.js.map": "/genomics2024/static/js/reactPlayerFilePlayer.faee32a3.chunk.js.map",
+    "reactPlayerPreview.edacdb10.chunk.js.map": "/genomics2024/static/js/reactPlayerPreview.edacdb10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4be2114.css",
-    "static/js/main.54795139.js"
+    "static/css/main.8b251327.css",
+    "static/js/main.689502a5.js"
   ]
 }
