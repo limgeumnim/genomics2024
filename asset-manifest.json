@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/genomics2024/static/css/main.2ea04261.css",
-    "main.js": "/genomics2024/static/js/main.6739f035.js",
+    "main.css": "/genomics2024/static/css/main.599da483.css",
+    "main.js": "/genomics2024/static/js/main.2af54d4d.js",
     "reactPlayerYouTube.js": "/genomics2024/static/js/reactPlayerYouTube.9a04dbee.chunk.js",
     "reactPlayerSoundCloud.js": "/genomics2024/static/js/reactPlayerSoundCloud.49717f4f.chunk.js",
     "reactPlayerVimeo.js": "/genomics2024/static/js/reactPlayerVimeo.e975bda3.chunk.js",
@@ -23,12 +23,14 @@
     "static/media/services_rhapsody.png": "/genomics2024/static/media/services_rhapsody.b2a72706910f9c383525.png",
     "static/media/material-icons-latin-400-normal.woff": "/genomics2024/static/media/material-icons-latin-400-normal.ec276a3b4c1b27cdbab7.woff",
     "static/media/pr_award_thumb.jpg": "/genomics2024/static/media/pr_award_thumb.098db5341008eb55a4c1.jpg",
+    "static/media/promo_ocm_desktop.jpg": "/genomics2024/static/media/promo_ocm_desktop.7d47eb1d133002df7f07.jpg",
     "static/media/material-icons-latin-400-normal.woff2": "/genomics2024/static/media/material-icons-latin-400-normal.0c35d18bf06992036b69.woff2",
     "static/media/main_2.jpg": "/genomics2024/static/media/main_2.82c6581882112fed2e7e.jpg",
     "static/media/pr_Biosolvix.jpg": "/genomics2024/static/media/pr_Biosolvix.9627d3ae6024bd62cb51.jpg",
     "static/media/main_1.jpg": "/genomics2024/static/media/main_1.f25c5160eb14b844a03e.jpg",
     "static/media/main_3.jpg": "/genomics2024/static/media/main_3.c0b7c03e82c1941d5042.jpg",
     "static/media/pr_Bertis.jpg": "/genomics2024/static/media/pr_Bertis.5324ea038c99aa1a73ce.jpg",
+    "static/media/promo_ocm_mobile.jpg": "/genomics2024/static/media/promo_ocm_mobile.233ebdadcb4a0604f93c.jpg",
     "static/media/pr_unist_thumb.jpg": "/genomics2024/static/media/pr_unist_thumb.f69c8df543d7492e92ae.jpg",
     "static/media/pr_rokitandmac.jpg": "/genomics2024/static/media/pr_rokitandmac.ccd02d90a853ef85d549.jpg",
     "static/media/logo.png": "/genomics2024/static/media/logo.da8881d31b8dff0b0027.png",
@@ -40,8 +42,8 @@
     "static/media/rokit_healthcare_logo.png": "/genomics2024/static/media/rokit_healthcare_logo.b6012b87df0035e93a0a.png",
     "static/media/rokit_europe_logo.png": "/genomics2024/static/media/rokit_europe_logo.b0a556212ee214939ec5.png",
     "index.html": "/genomics2024/index.html",
-    "main.2ea04261.css.map": "/genomics2024/static/css/main.2ea04261.css.map",
-    "main.6739f035.js.map": "/genomics2024/static/js/main.6739f035.js.map",
+    "main.599da483.css.map": "/genomics2024/static/css/main.599da483.css.map",
+    "main.2af54d4d.js.map": "/genomics2024/static/js/main.2af54d4d.js.map",
     "reactPlayerYouTube.9a04dbee.chunk.js.map": "/genomics2024/static/js/reactPlayerYouTube.9a04dbee.chunk.js.map",
     "reactPlayerSoundCloud.49717f4f.chunk.js.map": "/genomics2024/static/js/reactPlayerSoundCloud.49717f4f.chunk.js.map",
     "reactPlayerVimeo.e975bda3.chunk.js.map": "/genomics2024/static/js/reactPlayerVimeo.e975bda3.chunk.js.map",
@@ -58,7 +60,7 @@
     "reactPlayerPreview.edacdb10.chunk.js.map": "/genomics2024/static/js/reactPlayerPreview.edacdb10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ea04261.css",
-    "static/js/main.6739f035.js"
+    "static/css/main.599da483.css",
+    "static/js/main.2af54d4d.js"
   ]
 }
