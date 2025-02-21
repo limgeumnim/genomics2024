@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/genomics2024/static/css/main.599da483.css",
-    "main.js": "/genomics2024/static/js/main.2af54d4d.js",
+    "main.css": "/genomics2024/static/css/main.ba88fafb.css",
+    "main.js": "/genomics2024/static/js/main.c92e7182.js",
     "reactPlayerYouTube.js": "/genomics2024/static/js/reactPlayerYouTube.9a04dbee.chunk.js",
     "reactPlayerSoundCloud.js": "/genomics2024/static/js/reactPlayerSoundCloud.49717f4f.chunk.js",
     "reactPlayerVimeo.js": "/genomics2024/static/js/reactPlayerVimeo.e975bda3.chunk.js",
@@ -42,8 +42,8 @@
     "static/media/rokit_healthcare_logo.png": "/genomics2024/static/media/rokit_healthcare_logo.b6012b87df0035e93a0a.png",
     "static/media/rokit_europe_logo.png": "/genomics2024/static/media/rokit_europe_logo.b0a556212ee214939ec5.png",
     "index.html": "/genomics2024/index.html",
-    "main.599da483.css.map": "/genomics2024/static/css/main.599da483.css.map",
-    "main.2af54d4d.js.map": "/genomics2024/static/js/main.2af54d4d.js.map",
+    "main.ba88fafb.css.map": "/genomics2024/static/css/main.ba88fafb.css.map",
+    "main.c92e7182.js.map": "/genomics2024/static/js/main.c92e7182.js.map",
     "reactPlayerYouTube.9a04dbee.chunk.js.map": "/genomics2024/static/js/reactPlayerYouTube.9a04dbee.chunk.js.map",
     "reactPlayerSoundCloud.49717f4f.chunk.js.map": "/genomics2024/static/js/reactPlayerSoundCloud.49717f4f.chunk.js.map",
     "reactPlayerVimeo.e975bda3.chunk.js.map": "/genomics2024/static/js/reactPlayerVimeo.e975bda3.chunk.js.map",
@@ -60,7 +60,7 @@
     "reactPlayerPreview.edacdb10.chunk.js.map": "/genomics2024/static/js/reactPlayerPreview.edacdb10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.599da483.css",
-    "static/js/main.2af54d4d.js"
+    "static/css/main.ba88fafb.css",
+    "static/js/main.c92e7182.js"
   ]
 }
